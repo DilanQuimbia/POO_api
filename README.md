@@ -19,3 +19,6 @@ Dependencias
 #### Versión
 - Java 21
 - Spring boot 3.3.5
+#
+### Referencias
+https://www.youtube.com/watch?v=OkD1wBpPsNM&ab_channel=AlienExplorer
